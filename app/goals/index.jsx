@@ -5,7 +5,7 @@ const Goals = () => {
   return (
     <SafeAreaView style={styles.container}>
       <Text style={styles.title}>Your Goals</Text>
-
+    
     </SafeAreaView>
   )
 }
